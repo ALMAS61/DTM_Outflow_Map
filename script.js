@@ -84,7 +84,7 @@ require(['Canvas-Flowmap-Layer/CanvasFlowmapLayer',
           },
           {
             classMinValue: 100001,
-            classMaxValue: 465351,
+            classMaxValue: 230958,
             symbol: {
               strokeStyle: 'rgba(0, 51, 160, 0.8)',
               lineWidth: 5,
